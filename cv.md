@@ -18,7 +18,7 @@ Architecture, content delivery, gameplay algorithms in VR and AR applications, b
 
 iOS development in Swift, with Alamofire, Promises, CoreData, custom-written content caching and versioning systems, SceneKit, ARKit, MetalKit, integration with JSON API, domestic also, rolls with Laravel/PHP7.2.
 
-5+ apps on App Store and another project just around the corner.
+5+ apps in the last year on App Store and another project just around the corner.
 
 ## Hobbies & Interests
 I am rather teased by the general idea of doing system programming, low level graphics and hardware drivers, and thus I am really invested into rather dated literature about the inner workings of POSIX systems, and I would like to get to the point of thorough understanding of the kernel structure and how stuff... works, basically. I am also into swimming, wallclimbing and languages.
