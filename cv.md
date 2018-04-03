@@ -45,3 +45,11 @@ English:	Native
 Russian:	Fluent
 
 German:	Beginner
+
+## Links
+
+https://medium.com/@isaac_weisberg
+
+https://github.com/isaac-weisberg
+
+https://stackoverflow.com/users/9353387/isaac-carol-weisberg
