@@ -5,6 +5,8 @@ isaac_weisberg@outlook.com
 ## Summary
 iOS Application Developer with an extensive background in back-end development, deep experience and understanding of IPC, networking, OS API level programming and desire to build and build upon that knowledge. I do web (React/Vue), I do servers(Node/golang), I do Linux desktop(gtk/xlib WM's). I did do, but no more, .NET and JVM, UE4, Unity, Xamarin. Above all, commercially, I am an iOS developer for UIKit stack, primarily aiming at complex systems with many layers of interconnected data and rich, dynamic back-ends.
 
+I am seeking a project with a lot of complexity in its system and interactions with other systems-- that's point number one. What I am also seeking is a project in which I will be negotiating and crafting beautiful stuff with a team of worthy professionals whose work is established in distinctive goals and planned tasks.
+
 ## Employment History
 ### **Middle Unity Developer   January 2017 - April 2017**
 *VRCorp, Novosibirsk, Novosibirsk Oblast, Russian Federation*
