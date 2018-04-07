@@ -19,7 +19,7 @@ iOS development in Swift, with Alamofire, Promises, CoreData, custom-written con
 5+ apps in the last year on App Store and another project just around the corner.
 
 ## Hobbies & Interests
-I am teased by the general idea of doing system programming, low level graphics and hardware drivers, and thus I am really invested into rather dated literature about the inner workings of POSIX systems, and I would like to get to the point of thorough understanding of the kernel structure and how stuff... works, basically. I am also into swimming, wallclimbing and languages.
+I am teased by the general idea of doing system programming, low level graphics and hardware drivers and I would like to get to the point of thorough understanding of the kernel structure and how stuff... works, basically. I am also into swimming, wallclimbing and languages.
 
 ## Professional Skills
 Application projects' architecture
