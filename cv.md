@@ -3,13 +3,13 @@ Novosibirsk, Novosibirskaya Oblast', Russian Federation
 
 isaac_weisberg@outlook.com
 ## Summary
-iOS applications developer with primary experience in architecture, content management and networking.
+iOS applications developer. My systems work. 
 
 ## Employment History
 ### **Middle Unity Developer   January 2017 - April 2017**
 *VRCorp, Novosibirsk, Novosibirsk Oblast, Russian Federation*
 
-Architecture, content delivery, gameplay algorithms in VR and AR applications, b2b. Mostly real estate projects.  Left when company didn't pay for 2 months of work.
+Architecture, content delivery, gameplay algorithms in VR and AR applications, b2b. Mostly real estate projects.
 
 ### **Middle iOS Developer   April 2017 - Present**
 *iDSi Apps, Novosibirsk, Novosibirsk Oblast, Russian Federation*
@@ -44,4 +44,4 @@ German:	Beginner
 
 ## Links
 
-http://caroline-weisberg.net/
+More links at my personal website http://caroline-weisberg.net/
