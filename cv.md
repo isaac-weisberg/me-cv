@@ -3,7 +3,7 @@ Novosibirsk, Novosibirskaya Oblast', Russian Federation
 
 isaac_weisberg@outlook.com
 ## Summary
-iOS applications developer. My systems work. 
+iOS applications developer. Ready to do all sorts of projects.
 
 ## Employment History
 ### **Middle Unity Developer   January 2017 - April 2017**
@@ -14,7 +14,7 @@ Architecture, content delivery, gameplay algorithms in VR and AR applications, b
 ### **Middle iOS Developer   April 2017 - Present**
 *iDSi Apps, Novosibirsk, Novosibirsk Oblast, Russian Federation*
 
-iOS development in Swift, with Alamofire, Promises, CoreData, custom-written content caching and versioning systems, SceneKit, ARKit, MetalKit, integration with JSON API, domestic also, rolls with Laravel/PHP7.2.
+iOS development in Swift, with Alamofire, Promises, CoreData, custom-written content caching and versioning systems, SceneKit, ARKit, MetalKit, APNS, custom REST API, which is also domestic, rolls with Laravel/PHP7.2.
 
 5+ apps in the last year on App Store and another project just around the corner.
 
