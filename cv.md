@@ -50,6 +50,14 @@ Russian:	Fluent
 
 German:	Beginner
 
+## Notable activity
+
+Carthage docs contributor
+
+Significant and not really aid for several open source projects
+
+I also publically speak and write technical papers
+
 ## Links
 
 More links at my personal website http://caroline-weisberg.net/
