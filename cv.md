@@ -81,6 +81,13 @@ Significant and not really aid in several open source projects
 I also publically speak and write technical papers.  
 And I also research education strategies and human resource crisis
 
+## What I am seeking
+1. A relocation opportinity
+2. Preferably fresh-starting projects
+3. Preferably not in outsourcing
+
+Please at least scratch me a line at isaac_weisberg@outlook.com if you are reading this CV.
+
 ## Links
 
 More links at my personal website http://caroline-weisberg.net/
