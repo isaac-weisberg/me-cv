@@ -29,25 +29,40 @@ Native iOS with Swift, RxSwift and GRDB. Strong maintainability accent. Custom-w
 - DevOps - Carthage, CocoaPods, SPM, git VCS, GitLab CI, CircleCI, Travis
 - Software testing - XCT, XCUIT
 
+## Supplementary experise
+Turns out that programming is tons of fun and of course it doesn't end with Swift and native iOS - that's why there is this listing:
+
+### Frontend web development
+
+- Webpack 2+
+- Typescript with ts-loader or awesome-typescript-loader
+- Vue/Vuex/vue-router/vue-i18n with SFCs and scoped styling, custom plugins, transitions and SSR
+- React/react-redux/react-redux-router with JSX
+- Sweet.js
+- kotlin2js
+- rxjs, Promise, Fetch API, PWA
+
+### Backend web development
+- Node with express/koa/nest
+- MongoDB with mongoose and Schema or mongodb-native
+- PostgreSQL with node-postgress
+- Socket.IO
 
 ## Hobbies & Interests
-Turns out that programming is tons of fun and of course it doesn't end with Swift and native iOS - that's why I am also extremely proficient in web programming, starting with Berkeley sockets and ending with Vue/Vuex/vue-router stack with writing a webserver in go with `gin` or node with `express`/`koa`/`nest` in between. I once wanted to do operating systems, well this date is postponed.
+I enjoy riding bikes, strolling and swimming. Yoga class is occasionally in my timetable too. I also find myself extremely sociable. Still, got all this bread to make.
 
 ## Languages
 
-English:	Native
-
-Russian:	Fluent
-
+English: Native  
+Russian: Fluent  
 German:	Beginner
 
 ## Notable activity
 
-Carthage docs contributor
-
-Significant and not really aid for several open source projects
-
-I also publically speak and write technical papers
+Carthage docs contributor  
+Significant and not really aid in several open source projects  
+I also publically speak and write technical papers.  
+And I also research education strategies and human resource crisis
 
 ## Links
 
