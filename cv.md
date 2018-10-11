@@ -14,25 +14,20 @@ Architecture, content delivery, gameplay algorithms in VR and AR applications. B
 ### **Senior iOS Developer   April 2017 - Present**
 *RDSTeam, Novosibirsk, Novosibirsk Oblast, Russian Federation*
 
-Native iOS with Swift, RxSwift and GRDB. Strong maintainability accent. Custom-written app content versioning and caching systems. SceneKit,SpriteKit, ARKit, MetalKit. Promises, RxGRDB, RxDataSources. SwiftyStoreKit, SwiftSoup, PocketSVG. CoreData, APNS. Design and implementation of REST API, client-side.
+Native iOS with Swift, RxSwift and GRDB. Strong maintainability accent. Custom-written app content versioning and caching systems. SceneKit, SpriteKit, ARKit, MetalKit. Promises, RxGRDB, RxDataSources. SwiftyStoreKit, SwiftSoup, PocketSVG. CoreData, APNS. Design and implementation of REST API, client-side.
 
-6+ apps in the last year on App Store and one more projects just around the corner.
+6+ apps in the last year on App Store and one more project just around the corner.
 
 ## Professional Skills
 - Software Architecture  
 - OOP with FRP elements  
 - Reactive Programming - RxSwift, RxDataSources, Promises  
-- RDBMS/NoSQL storages - GRDB, raw sqlite3, CoreData, MagicalRecord, RDBMS/NoSQL storages knowledge domain-wise  
+- RDBMS/NoSQL storages - GRDB, RxGRDB, raw sqlite3, CoreData, MagicalRecord, expertise domain-wise
 - Network programming - POSIX, Darwin Foundation  
-- Asyncronous and
-
-POSIX threads, GCD, kevent
-
-SW/HW rendering
-
-Dependency management, CI setup and configuration, VCS, development workflow management
-
-Software testing
+- Asyncronous and concurrent programming - POSIX threads, GCD, NSOperationQueue  
+- SW/HW rendering - CoreGraphics, CoreAnimation, MetalKit, SpriteKit, SceneKit, ARKit  
+- DevOps - Carthage, CocoaPods, SPM, git VCS, GitLab CI, CircleCI, Travis
+- Software testing - XCT, XCUIT
 
 
 ## Hobbies & Interests
