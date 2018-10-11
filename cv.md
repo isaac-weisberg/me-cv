@@ -38,6 +38,7 @@ Turns out that programming is tons of fun and of course it doesn't end with Swif
 - Typescript with ts-loader or awesome-typescript-loader
 - Vue/Vuex/vue-router/vue-i18n with SFCs and scoped styling, custom plugins, transitions and SSR
 - React/react-redux/react-redux-router with JSX
+- react-native with react-navigation
 - Sweet.js
 - kotlin2js
 - rxjs, Promise, Fetch API, PWA
@@ -47,6 +48,21 @@ Turns out that programming is tons of fun and of course it doesn't end with Swif
 - MongoDB with mongoose and Schema or mongodb-native
 - PostgreSQL with node-postgress
 - Socket.IO
+
+### Web development 2: Electric Boogaloo
+- golang with gin
+- Swift with vapor and kitura
+- Kotlin with Ktor
+
+### Non-web development
+- C11/C99 with standart library. I am interested in WMs and X11. Also complilers are a lot of fun, I love to use clang blocks runtime in Pure C.
+- C++11/14, maybe will not procrastinate to try a header only web-server with lambda-based routing.
+- Objective-C 2.0 w/ ARC
+- CommonLisp, Clojure
+- golang
+- Kotlin on all runtimes except JVM
+- C# with WPF, WinForms, Xamarin (general knowledge), I might even remember something from ASP.NET WebForms.
+- UnrealEngine 4 and Unity
 
 ## Hobbies & Interests
 I enjoy riding bikes, strolling and swimming. Yoga class is occasionally in my timetable too. I also find myself extremely sociable. Still, got all this bread to make.
