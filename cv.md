@@ -1,7 +1,6 @@
 # Isaac Weisberg
 Novosibirsk, Novosibirskaya Oblast', Russian Federation  
 isaac_weisberg@outlook.com  
-+79965453756
 ## Summary
 A software engineer with diverse experince in multiple domains of commercial programming. Eagerness of a 4 year old. Desire for hardcore teamwork of a... ugh-- person... that wants to work in a team.
 
