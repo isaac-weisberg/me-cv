@@ -1,38 +1,30 @@
 # Isaac Weisberg
-Novosibirsk, Novosibirskaya Oblast', Russian Federation
-
-isaac_weisberg@outlook.com
+Novosibirsk, Novosibirskaya Oblast', Russian Federation  
+isaac_weisberg@outlook.com  
++79965453756
 ## Summary
-iOS applications developer. Ready to do all sorts of projects. I reuse my UIViews, I understand the utility of immutability and functional approach and I won't hesitate to go knee-deep into Objective-C codebase.
+A software engineer with diverse experince in multiple domains of commercial programming. Eagerness of a 4 year old. Desire for hardcore teamwork of a... ugh-- person... that wants to work in a team.
 
 ## Employment History
 ### **Middle Unity Developer   January 2017 - April 2017**
 *VRCorp, Novosibirsk, Novosibirsk Oblast, Russian Federation*
 
-Architecture, content delivery, gameplay algorithms in VR and AR applications, b2b. Mostly real estate projects.
+Architecture, content delivery, gameplay algorithms in VR and AR applications. B2B. Mostly real estate projects.
 
-### **Middle iOS Developer   April 2017 - Present**
+### **Senior iOS Developer   April 2017 - Present**
 *RDSTeam, Novosibirsk, Novosibirsk Oblast, Russian Federation*
 
-iOS development in Swift, with RxSwift, RxGRDB, Alamofire, Promises, CoreData, custom-written content caching and versioning systems, SceneKit, ARKit, MetalKit, APNS, custom REST API, which is also domestic, rolls with Laravel/PHP7.2.
+Native iOS with Swift, RxSwift and GRDB. Strong maintainability accent. Custom-written app content versioning and caching systems. SceneKit,SpriteKit, ARKit, MetalKit. Promises, RxGRDB, RxDataSources. SwiftyStoreKit, SwiftSoup, PocketSVG. CoreData, APNS. Design and implementation of REST API, client-side.
 
-5+ apps in the last year on App Store and two more projects just around the corner.
-
-## Hobbies & Interests
-I am teased by the general idea of doing system programming, low level graphics and hardware drivers and I would like to get to the point of thorough understanding of the kernel structure and how the UNIX world works. I am also into swimming, biking, wallclimbing, yoga and languages.
+6+ apps in the last year on App Store and one more projects just around the corner.
 
 ## Professional Skills
-Application/framework architecture
-
-iOS apps interface building
-
-RxSwift, RxDataSources, Promises
-
-GRDB, RxGRDB, raw sqlite3, CoreData, MagicalRecord, RDBMS/NoSQL storages knowledge domain-wise
-
-Decoupling, SOLID, patterns, state integrity, data flows, immutability
-
-REST, networking, serialization, streaming
+- Software Architecture  
+- OOP with FRP elements  
+- Reactive Programming - RxSwift, RxDataSources, Promises  
+- RDBMS/NoSQL storages - GRDB, raw sqlite3, CoreData, MagicalRecord, RDBMS/NoSQL storages knowledge domain-wise  
+- Network programming - POSIX, Darwin Foundation  
+- Asyncronous and
 
 POSIX threads, GCD, kevent
 
@@ -41,6 +33,10 @@ SW/HW rendering
 Dependency management, CI setup and configuration, VCS, development workflow management
 
 Software testing
+
+
+## Hobbies & Interests
+Turns out that programming is tons of fun and of course it doesn't end with Swift and native iOS - that's why I am also extremely proficient in web programming, starting with Berkeley sockets and ending with Vue/Vuex/vue-router stack with writing a webserver in go with `gin` or node with `express`/`koa`/`nest` in between. I once wanted to do operating systems, well this date is postponed.
 
 ## Languages
 
