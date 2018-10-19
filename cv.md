@@ -45,7 +45,7 @@ Turns out that programming is tons of fun and of course it doesn't end with Swif
 ### Backend web development
 - Node with express/koa/nest
 - MongoDB with mongoose and Schema or mongodb-native
-- PostgreSQL with node-postgress
+- PostgreSQL with node-postgres
 - Socket.IO
 
 ### Web development 2: Electric Boogaloo
@@ -55,7 +55,7 @@ Turns out that programming is tons of fun and of course it doesn't end with Swif
 - Mocha-based TDD/BDD, chai
 
 ### Non-web development
-- C11/C99 with standart library. I am interested in WMs and X11. Also complilers are a lot of fun, I love to use clang blocks runtime in Pure C.
+- C11/C99 with standard library. I am interested in WMs and X11. Also complilers are a lot of fun, I love to use clang blocks runtime in Pure C.
 - C++11/14, maybe will not procrastinate to try a header only web-server with lambda-based routing.
 - Objective-C 2.0 w/ ARC
 - CommonLisp, Clojure
@@ -77,13 +77,14 @@ German:	Beginner
 
 Carthage docs contributor  
 Significant and not really aid in several open source projects  
-I also publically speak and write technical papers.  
+I also publically speak and write technical papers
 And I also research education strategies and human resource crisis
 
 ## What I am seeking
 1. A relocation opportinity
-2. Preferably fresh-starting projects
-3. Preferably not in outsourcing
+1. A team of professionals
+1. Preferably fresh-starting projects
+1. Preferably not in outsourcing
 
 Please at least scratch me a line at isaac_weisberg@outlook.com if you are reading this CV.
 
