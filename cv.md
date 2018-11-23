@@ -5,17 +5,13 @@ isaac_weisberg@outlook.com
 A software engineer with diverse experince in multiple domains of commercial programming. Eagerness of a 4 year old. Desire for hardcore teamwork of a... ugh-- person... that wants to work in a team.
 
 ## Employment History
-### **Middle Unity Developer   January 2017 - April 2017**
-*VRCorp, Novosibirsk, Novosibirsk Oblast, Russian Federation*
 
-Architecture, content delivery, gameplay algorithms in VR and AR applications. B2B. Mostly real estate projects.
-
-### **Senior iOS Developer   April 2017 - Present**
+### **iOS Developer April 2017 - October 2018**
 *RDSTeam, Novosibirsk, Novosibirsk Oblast, Russian Federation*
 
 Native iOS with Swift, RxSwift and GRDB. Strong maintainability accent. Custom-written app content versioning and caching systems. SceneKit, SpriteKit, ARKit, MetalKit. Promises, RxGRDB, RxDataSources. SwiftyStoreKit, SwiftSoup, PocketSVG. CoreData, APNS. Design and implementation of REST API, client-side.
 
-6+ apps in the last year on App Store and one more project just around the corner.
+6+ apps on App Store.
 
 ## Professional Skills
 - Software Architecture  
