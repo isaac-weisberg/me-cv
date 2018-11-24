@@ -19,7 +19,7 @@ Native iOS with Swift, RxSwift and GRDB. Strong maintainability accent. Custom-w
 
 Native iOS with Swift, RxSwift, full-pledged MVVM with coordinator based DI. Highly complex UX. Managed standardized networking.
 
-Quickly integrated into the development process. Have an opinion on the technological solutions utilized. Investigating and suggesting improvements on the cross-company ecosystem.
+Quickly assimilated into the development workflow. Have an opinion on the technological solutions utilized. Investigating and suggesting improvements on the cross-company ecosystem.
 
 ## Professional Skills
 
