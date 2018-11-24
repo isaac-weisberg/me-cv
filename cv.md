@@ -28,7 +28,7 @@ Preferred domain: system programming.
 Primary commercial experience: native iOS.  
 - Wide interest in multiple other native and managed development stacks. 
 - SAD and non-trivial interoperation
-- 
+- Languages and runtimes, low-level implementation, interest in kernel programming.
 
 ## Hobbies & Interests
 
