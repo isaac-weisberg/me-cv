@@ -32,7 +32,7 @@ Primary commercial experience: native iOS.
 
 ## Hobbies & Interests
 
-__OH HOW ABOUT YOU FILL IN__  
+Bikeriding in one of my biggest passions. I swim and would occasionally get a yoga class. Also I am movie-head.
 
 ## Languages
 
