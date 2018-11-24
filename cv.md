@@ -3,7 +3,7 @@ Novosibirsk, Russian Federation
 isaac_weisberg@outlook.com  
 ## Summary
 
-__OH HOW ABOUT YOU FILL IN__  
+A passionate systems programmer is looking for a team that is learning at a pace.
 
 ## Employment History
 
