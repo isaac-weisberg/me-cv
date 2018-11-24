@@ -1,5 +1,5 @@
 # Isaac Weisberg
-Novosibirsk, Novosibirskaya Oblast', Russian Federation  
+Novosibirsk, Russian Federation  
 isaac_weisberg@outlook.com  
 ## Summary
 
@@ -10,7 +10,7 @@ __OH HOW ABOUT YOU FILL IN__
 ### **iOS Developer April 2017 - October 2018**
 *RDSTeam, Novosibirsk, Novosibirsk Oblast, Russian Federation*
 
-Native iOS with Swift, RxSwift and GRDB. Strong maintainability accent. Custom-written app content versioning and caching systems. SceneKit, SpriteKit, ARKit, MetalKit. Promises, RxDataSources, RxKeyboard. SwiftyStoreKit, SwiftSoup, PocketSVG. CoreData, APNS. Design and implementation of REST API, client-side.
+Native iOS with Swift, RxSwift and GRDB. Strong maintainability accent. Custom-written app content versioning and caching systems. SceneKit, SpriteKit, ARKit, MetalKit. Promises, RxDataSources, RxKeyboard. SwiftyStoreKit, SwiftSoup, PocketSVG. CoreData, APNS. Design and implementation of REST API's client side.
 
 6+ apps on App Store.
 
@@ -30,7 +30,7 @@ German:	Beginner
 
 Open source projects  
 Public speech and technical writing
-Education strategies and human resource crisis
+Education strategies and human resource crisis  
 
 ## Links
 
