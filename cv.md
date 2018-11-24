@@ -23,7 +23,12 @@ Quickly integrated into the development process. Have an opinion on the technolo
 
 ## Professional Skills
 
-__OH HOW ABOUT YOU FILL IN__  
+- Software development.  
+Preferred domain: system programming.  
+Primary commercial experience: native iOS.  
+- Wide interest in multiple other native and managed development stacks. 
+- SAD and non-trivial interoperation
+- 
 
 ## Hobbies & Interests
 
