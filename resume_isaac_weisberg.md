@@ -3,7 +3,7 @@ Novosibirsk, Russian Federation
 isaac_weisberg@outlook.com  
 ## Summary
 
-A passionate systems programmer is looking for a team that is learning at a pace.
+A systems programmer is looking for a team that is learning at a pace. Eagerness of a 4 year old. Interest in a wide range of development stacks.
 
 ## Employment History
 
@@ -29,6 +29,7 @@ Primary commercial experience: native iOS.
 - Wide interest in multiple other native and managed development stacks. 
 - SAD and non-trivial interoperation
 - Languages and runtimes, low-level implementation, interest in kernel programming.
+- Common CS
 
 ## Hobbies & Interests
 
@@ -41,7 +42,7 @@ German:	Beginner
 ## Notable activity
 
 Open source projects  
-Public speech and technical writing
+Public speech and technical writing  
 Education strategies and human resource crisis  
 
 ## Links
