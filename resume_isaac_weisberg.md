@@ -23,7 +23,8 @@ Quickly assimilated into the development workflow. Have an opinion on the techno
 
 Suggested and presented a modernization and unification of project-wise error handling and propagation. The suggestion was approved and integrated.  
 Suggested architetural shortcuts and time saving activities. Results vary.  
-Got busy studying and analyzing the company's networking standards.
+Got busy studying and analyzing the company's networking standards.  
+Have brought to the projects such libs as RxDataSources and RxKeyboard, which lead to a general codebase improval.
 
 ## Professional Skills
 
