@@ -21,6 +21,10 @@ Native iOS with Swift, RxSwift, full-pledged MVVM with coordinator based DI. Hig
 
 Quickly assimilated into the development workflow. Have an opinion on the technological solutions utilized. Investigating and suggesting improvements on the cross-company ecosystem.
 
+Suggested and presented a modernization and unification of project-wise error handling and propagation. The suggestion was approved and integrated.  
+Suggested architetural shortcuts and time saving activities. Results vary.  
+Got busy studying and analyzing the company's networking standards.
+
 ## Professional Skills
 
 - Software development.  
