@@ -1,18 +1,36 @@
 # Isaac Weisberg
-Novosibirsk, Russian Federation  
+Saint Petersburg, Russian Federation  
 isaac_weisberg@outlook.com  
 ## Summary
 
-A systems programmer is looking for a team that is learning at a pace. Eagerness of a 4 year old. Interest in a wide range of development stacks.
+A systems programmer is looking for a product that is nowhere near its decline. Eagerness of a 4 year old. Interest in a wide range of development stacks.
 
 ## Employment History
 
+### **Disrapp, Saint Petersburg, Russian Federation**
+*iOS Developer April 2019 - Present*
+
+Native iOS/UIKit development in a one year old "rich client" project.  
+
+Clean architecture with coordinator-tree-based navigation and RxSwift based MVVM.
+
+Heavy isolated chunks of functionality  
+Incredible emphasis on the UX  
+Regular feature based code-review  
+Schedule independent refactoring  
+gRPC based server interoperation  
+CoreData based waste of time and patience  
+Establishing architectural conventions in coop  
+A/B experiments and analytics grind
+
+Pushed 2 sizable chunks of functionality into production, outputting high-quality low management cost code.
+
 ### **Magora Systems, Novosibirsk, Russian Federation**  
-*iOS Developer October 2018 - Present*
+*iOS Developer October 2018 - April 2019*
 
 Native iOS with Swift in an outsourcing company.
 
-Clean architecture with coordinator-tree-based navigation and RxSwift based MVVM.  
+Clean architecture with coordinator-tree-based navigation and RxSwift based MVVM (*note how I copy-pasted it from the section above*).  
 
 Participated in a 2k+ hours project.  
 Periodical teammate code reviews.  
@@ -42,7 +60,7 @@ Primary commercial experience: native iOS.
 
 ## Hobbies & Interests
 
-Bikeriding in one of my biggest passions. I swim and would occasionally get a yoga class. Also I am movie-head.
+Bikeriding was one of my biggest passions until I discovered electric scooters. Also I am totally into autosport, currently studying at a driving school and hoping one day I won't procrastinate just enough to enter a karting league as an amateur driver.
 
 ## Languages
 
@@ -51,6 +69,7 @@ German:	Beginner
 ## Notable activity
 
 Open source projects  
+Functional and reactive state systems research  
 Public speech and technical writing  
 Education strategies and human resource crisis  
 
