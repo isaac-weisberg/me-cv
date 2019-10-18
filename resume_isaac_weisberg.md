@@ -21,9 +21,10 @@ Schedule independent refactoring
 gRPC based server interoperation  
 CoreData based waste of time and patience  
 Establishing architectural conventions in coop  
-A/B experiments and analytics grind
+A/B experiments and analytics grind  
+Developer intreviews
 
-Pushed 2 sizable chunks of functionality into production, outputting high-quality low management cost code.
+Pushed 4 sizable chunks of functionality into production, outputting high-quality low-maintainance-cost code.
 
 ### **Magora Systems, Novosibirsk, Russian Federation**  
 *iOS Developer October 2018 - April 2019*
