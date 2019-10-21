@@ -81,6 +81,12 @@ Other:
 - Kotlin, knowing the language by docs, no notable practice
 - C, practice projects: implementation of OOP, closures, macro-based generic type system, usage of aio and standard library
 
+## Interesting commercial problem solving cases
+
+*Magora Systems, Winter 2019*: the client application boasted zero native funcionality yet was sold as 2 separate native clients anyway. One of the requirements was to have a video player with customized playback widgets. The catch was that it was necessary that all the content was hosted at Youtube. I've been in charge of building a web view coated with native widgets, scrollable playback progress bar, timestamps, navigation. Interopped with Javascript that exposed the Youtube player API, have writter Reactive wrappers for events coming in a out of the web view's Javascript context.
+
+Nothing could save the player though: the UX was terrible, Youtube embedded player would totally break on screen rotation, the players own widgets rendered in web view just wouldn't go away without reliance on DOM's structure and manual removal, also Youtube strictly prohibits custom overlays and widgets threatening with a ban. Fun times. Client was flattered.
+
 ## Hobbies & Interests
 
 Bikeriding was one of my biggest passions until I discovered electric scooters. Also I am totally into autosport, currently studying at a driving school and hoping one day I won't procrastinate just enough to enter a karting league as an amateur driver.
