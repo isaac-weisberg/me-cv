@@ -96,6 +96,7 @@ Nothing could save the player though: the UX was terrible, Youtube embedded play
 ## Hobbies & Interests
 
 Bikeriding was one of my biggest passions until I discovered electric scooters. Also I am totally into autosport, currently studying at a driving school and hoping one day I won't procrastinate just enough to enter a karting league as an amateur driver.
+<div style="page-break-after: always;"></div>
 
 ## Notable activity
 
