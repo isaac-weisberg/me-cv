@@ -12,8 +12,7 @@ A systems programmer is looking for a product that is nowhere near its decline. 
 
 Native iOS/UIKit development in a one year old "rich client" project.  
 
-Clean architecture with coordinator-tree-based navigation and RxSwift based MVVM.
-
+Clean architecture with coordinator-tree-based navigation and RxSwift based MVVM.  
 Heavy isolated chunks of functionality  
 Incredible emphasis on the UX  
 Regular feature based code-review  
