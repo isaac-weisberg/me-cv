@@ -60,34 +60,37 @@ Primary commercial experience: native iOS.
 
 ## Programming practices accross carreer
 
-Web frontend development:
-- Typescript, Babel, Webpack bundling
-- React.js/Redux, a couple of training projects
-- Vue.js/vuex/vue-router, a couple of training projects
-- RxJS 7.x
-- Electron.js, a single training project
+Web frontend development:  
+- Typescript, Babel, Webpack bundling  
+- React.js/Redux, a couple of training projects  
+- Vue.js/vuex/vue-router, a couple of training projects  
+- RxJS 7.x  
+- Electron.js, a single training project  
 
-Backend development:
-- Node.js, Express.js, Koa.js, several practice projects
-- Mongo.db, PostreSQL, Facebook Graph API
-- Go, Gin-Gonic eco-system, a practice project
+Backend development:  
+- Node.js, Express.js, Koa.js, several practice projects  
+- Mongo.db, PostreSQL, Facebook Graph API  
+- Go, Gin-Gonic eco-system, a practice project  
 
-Native frontend development:
-- Windows Presentation Foundation, commercial practice
-- Unity Engine, commercial practice
-- Androind Platform, understanding of concepts, no notable practice
+Native frontend development:  
+- Windows Presentation Foundation, commercial practice  
+- Unity Engine, commercial practice  
+- Androind Platform, understanding of concepts, no notable practice  
 
-Other:
-- Kotlin, knowing the language by docs, no notable practice
-- C, practice projects: implementation of OOP, closures, macro-based generic type system, usage of aio and standard library
+Other:  
+- Kotlin, knowing the language by docs, no notable practice  
+- C, practice projects: implementation of OOP, closures, macro-based generic type system, usage of aio and standard library  
 
 ## Interesting commercial problem solving cases
 
-*Disrapp, Summer-Fall 2019*: the architecture of a couple of view controllers was tightly coupled, MVVM broken multiple times, in other words legacy code. Also there was a case of literally lazy business modeling. There would be a view model with a lot of fields and a few initializers. Only one of the initializers would be accepting a legitimate data storage object, while the other initializers would ignore the fields they could ignore and initialize the others with default values. It would store a type, determined by an initializer used. If a view found that the view model was built using a real database object, it would initialize itself accordingly, it used the fields and reactive getters and subjects to bind the event propagation. Alternatively, if, for instance, you used another initializer, the view would ignore some Rx events, it bound its own events only to particular subjects, its visualization depended on the the viewmodel's state. 
+### Disrapp, Summer-Fall 2019
+
+The architecture of a couple of view controllers was tightly coupled, MVVM broken multiple times, in other words legacy code. Also there was a case of literally lazy business modeling. There would be a view model with a lot of fields and a few initializers. Only one of the initializers would be accepting a legitimate data storage object, while the other initializers would ignore the fields they could ignore and initialize the others with default values. It would store a type, determined by an initializer used. If a view found that the view model was built using a real database object, it would initialize itself accordingly, it used the fields and reactive getters and subjects to bind the event propagation. Alternatively, if, for instance, you used another initializer, the view would ignore some Rx events, it bound its own events only to particular subjects, its visualization depended on the the viewmodel's state. 
 
 Obviously, it's the abundance of segregation, and state leakage. A lot of the bugs were supported by this approach. So, as we started to implement a new type of this view model what I did is I replaced all of the usages with an intermediate model, an enumerator with associated values that brought a legacy view model in one case and a completely new, light view model specifically for this new case. The view that ate the new view model was also new. Paid off in a long run, implemented a couple more cases and corresponding views, refactored a lot of code and event propagation on 3 screens, eliminated a few of out of place navigation. Great stuff, I enjoy working at this company because of this habit of packing refactoring into the tasks while we can, stealth mode. Really improves the maintainability costs.
 
-*Magora Systems, Winter 2019*: the client application boasted zero native funcionality yet was sold as 2 separate native clients anyway. One of the requirements was to have a video player with customized playback widgets. The catch was that it was necessary that all the content was hosted at Youtube. I've been in charge of building a web view coated with native widgets, scrollable playback progress bar, timestamps, navigation. Interopped with Javascript that exposed the Youtube player API, have writter Reactive wrappers for events coming in a out of the web view's Javascript context.
+### Magora Systems, Winter 2019
+The client application boasted zero native funcionality yet was sold as 2 separate native clients anyway. One of the requirements was to have a video player with customized playback widgets. The catch was that it was necessary that all the content was hosted at Youtube. I've been in charge of building a web view coated with native widgets, scrollable playback progress bar, timestamps, navigation. Interopped with Javascript that exposed the Youtube player API, have writter Reactive wrappers for events coming in a out of the web view's Javascript context.
 
 Nothing could save the player though: the UX was terrible, Youtube embedded player would totally break on screen rotation, the players own widgets rendered in web view just wouldn't go away without reliance on DOM's structure and manual removal, also Youtube strictly prohibits custom overlays and widgets threatening with a ban. Fun times. Client was flattered.
 
