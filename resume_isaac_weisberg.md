@@ -1,6 +1,6 @@
 # Isaac Weisberg
-Saint Petersburg, Russian Federation  
-isaac_weisberg@outlook.com  
+London, United Kingdom  
+net.caroline.weisberg@gmail.com  
 ## Summary
 
 A systems programmer is looking for a product that is nowhere near its decline. Eagerness of a 4 year old. Interest in a wide range of development stacks.
@@ -54,22 +54,41 @@ Native iOS with Swift, RxSwift and GRDB. Strong maintainability accent. Custom-w
 Preferred domain: system programming.  
 Primary commercial experience: native iOS.  
 - Wide interest in multiple other native and managed development stacks.
-- Application and presentation layer architecture
-- SAD and non-trivial interoperation
-- Languages and runtimes, low-level implementation, interest in kernel programming
-- Common CS
+- Application and presentation layer architecture, Clean.
+- Languages and runtimes, low-level implementation.
+- Common CS.
+
+## Programming practices accross carreer
+
+Web frontend development:
+- Typescript, Babel, Webpack bundling
+- React.js/Redux, a couple of training projects
+- Vue.js/vuex/vue-router, a couple of training projects
+- RxJS 7.x
+- Electron.js, a single training project
+
+Backend development:
+- Node.js, Express.js, Koa.js, several practice projects
+- Mongo.db, PostreSQL, Facebook Graph API
+- Go, Gin-Gonic eco-system, a practice project
+
+Native frontend development:
+- Windows Presentation Foundation, commercial practice
+- Unity Engine, commercial practice
+- Androind Platform, understanding of concepts, no notable practice
+
+Other:
+- Kotlin, knowing the language by docs, no notable practice
+- C, practice projects: implementation of OOP, closures, macro-based generic type system, usage of aio and standard library
 
 ## Hobbies & Interests
 
 Bikeriding was one of my biggest passions until I discovered electric scooters. Also I am totally into autosport, currently studying at a driving school and hoping one day I won't procrastinate just enough to enter a karting league as an amateur driver.
 
-## Languages
-
-German:	Beginner  
-
 ## Notable activity
 
-Open source projects  
+GitHub open source projects  
+Medium articles in FRP and architecture  
 Functional and reactive state systems research  
 Public speech and technical writing  
 Education strategies and human resource crisis  
