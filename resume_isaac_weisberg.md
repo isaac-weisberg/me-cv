@@ -3,7 +3,7 @@ Saint-Petersburg, Russia
 net.caroline.weisberg@gmail.com  
 ## Summary
 
-A systems programmer is looking for a product that is nowhere near its decline. Eagerness of a 4 year old. Interest in a wide range of development stacks.
+An applications programmer looking for a place to apply my skills. Eagerness of a 4 year old. Interest in a wide range of development stacks.
 
 ## Employment History
 
