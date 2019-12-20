@@ -1,5 +1,5 @@
 # Isaac Weisberg
-Russia, Saint-Petersburg  
+Saint-Petersburg, Russia  
 net.caroline.weisberg@gmail.com  
 ## Summary
 
