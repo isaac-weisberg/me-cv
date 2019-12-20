@@ -1,5 +1,5 @@
 # Isaac Weisberg
-London, United Kingdom  
+Russia, Saint-Petersburg  
 net.caroline.weisberg@gmail.com  
 ## Summary
 
@@ -10,7 +10,7 @@ A systems programmer is looking for a product that is nowhere near its decline. 
 ### **Disrapp, Saint Petersburg, Russian Federation**
 *iOS Developer April 2019 - Present*
 
-Native iOS/UIKit development in a one year old "rich client" project.  
+Native iOS/UIKit development in a one year old "fat" client.  
 
 Clean architecture with coordinator-tree-based navigation and RxSwift based MVVM.  
 Heavy isolated chunks of functionality  
@@ -19,6 +19,7 @@ Regular feature based code-review
 Schedule independent refactoring  
 gRPC based server interoperation  
 CoreData based waste of time and patience  
+Unit-testing of modern codebase  
 Establishing architectural conventions in coop  
 A/B experiments and analytics grind  
 Developer intreviews
@@ -54,6 +55,7 @@ Preferred domain: system programming.
 Primary commercial experience: native iOS.  
 - Wide interest in multiple other native and managed development stacks.
 - Application and presentation layer architecture, Clean.
+- Software testing
 - Languages and runtimes, low-level implementation.
 - Common CS.
 
@@ -95,7 +97,7 @@ Nothing could save the player though: the UX was terrible, Youtube embedded play
 
 ## Hobbies & Interests
 
-Bikeriding was one of my biggest passions until I discovered electric scooters. Also I am totally into autosport, currently studying at a driving school and hoping one day I won't procrastinate just enough to enter a karting league as an amateur driver.
+Bikeriding was one of my biggest passions until I discovered electric scooters. Lately started a music school, playing a drumkit there.
 <div style="page-break-after: always;"></div>
 
 ## Notable activity
